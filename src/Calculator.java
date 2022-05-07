@@ -16,6 +16,7 @@ public class Calculator {
     //4rd adding
     //5th adding
     //6th adding
+    //7th adding
         
     public static double divide(double n1, double n2){
         double result = n1/n2;
